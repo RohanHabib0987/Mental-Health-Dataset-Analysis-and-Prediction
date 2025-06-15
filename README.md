@@ -167,10 +167,11 @@ print("\nDataFrame head after all preprocessing:")
 print(df.head())
 print("\nDataFrame dtypes after all preprocessing:")
 print(df.dtypes)
-4. Exploratory Data Analysis (EDA)
+```
+## 4. Exploratory Data Analysis (EDA)
 I conduct various visualizations and statistical analyses to understand the dataset's characteristics.
 
-Python
+```python
 
 import matplotlib.pyplot as plt
 import seaborn as sns
